@@ -25,3 +25,9 @@ func TestAdd(t *testing.T) {
 }
 
 ```
+
+## Run Test
+
+```bash
+go test # -v -run="Regx"
+```
