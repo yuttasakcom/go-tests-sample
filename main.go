@@ -8,6 +8,6 @@ func main() {
 	fmt.Println(sum)
 }
 
-func add(lhs int, rhs int) int {
+func add(lhs, rhs int) int {
 	return lhs + rhs
 }
